@@ -1,0 +1,116 @@
+[
+  {
+    "id": "VIP-3310",
+    "username": "qaz",
+    "phone": "0123123123",
+    "password": "1234",
+    "balance": 30940
+  },
+  {
+    "id": "VIP-2261",
+    "username": "asd",
+    "phone": "099999999",
+    "password": "4567",
+    "balance": 24375,
+    "bankOwner": "",
+    "bankName": "",
+    "bankNumber": ""
+  },
+  {
+    "id": "VIP-1945",
+    "username": "max01",
+    "phone": "1234567890",
+    "password": "9999",
+    "balance": 710,
+    "bankOwner": "maxpy",
+    "bankName": "ธนาคารกสิกรไทย (KBank)",
+    "bankNumber": "100154215789"
+  },
+  {
+    "id": "VIP-4182",
+    "username": "asdf",
+    "phone": "099999999",
+    "password": "1111",
+    "balance": 5000,
+    "bankOwner": "",
+    "bankName": "",
+    "bankNumber": ""
+  },
+  {
+    "id": "VIP-4527",
+    "username": "zxcv",
+    "phone": "0258258258",
+    "password": "1234",
+    "balance": 0
+  },
+  {
+    "id": "VIP-4838",
+    "username": "qwe",
+    "phone": "0111111111",
+    "password": "1234",
+    "balance": 0
+  },
+  {
+    "id": "VIP-9320",
+    "username": "qwer",
+    "phone": "011111111",
+    "password": "1212",
+    "balance": 0
+  },
+  {
+    "id": "VIP-7326",
+    "username": "zxcv",
+    "phone": "123456789",
+    "password": "1234",
+    "balance": 0
+  },
+  {
+    "id": "VIP-2993",
+    "username": "zxcv",
+    "phone": "012345214",
+    "password": "1234",
+    "balance": 0
+  },
+  {
+    "id": "VIP-4533",
+    "username": "kkk",
+    "phone": "012345612",
+    "password": "1234",
+    "balance": 0
+  },
+  {
+    "id": "VIP-8363",
+    "username": "mmm",
+    "phone": "012457854",
+    "password": "1234",
+    "balance": 12560
+  },
+  {
+    "id": "VIP-1161",
+    "username": "aaa",
+    "phone": "0124578963",
+    "password": "1234",
+    "balance": 100000
+  },
+  {
+    "id": "VIP-7692",
+    "username": "zzz",
+    "phone": "12341042",
+    "password": "1234",
+    "balance": 18750
+  },
+  {
+    "id": "VIP-6361",
+    "username": "xxx",
+    "phone": "01234567888",
+    "password": "1234",
+    "balance": 2380
+  },
+  {
+    "id": "VIP-4830",
+    "username": "qqq",
+    "phone": "0214523564",
+    "password": "1234",
+    "balance": 18800
+  }
+]

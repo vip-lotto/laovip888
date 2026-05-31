@@ -1,0 +1,506 @@
+[
+  {
+    "result": "42077",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-4830",
+    "username": "qqq",
+    "total": 200,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "77",
+        "twoBottom": "",
+        "price": "200"
+      }
+    ],
+    "date": "2026-05-31T21:05:12.859Z"
+  },
+  {
+    "result": "33218",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-6361",
+    "username": "xxx",
+    "total": 20,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "18",
+        "twoBottom": "",
+        "price": "20"
+      }
+    ],
+    "date": "2026-05-31T20:59:18.165Z"
+  },
+  {
+    "result": "20519",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-7692",
+    "username": "zzz",
+    "total": 250,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "19",
+        "twoBottom": "",
+        "price": "250"
+      }
+    ],
+    "date": "2026-05-31T20:50:08.993Z"
+  },
+  {
+    "result": "77415",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-1161",
+    "username": "aaa",
+    "total": 300,
+    "bets": [
+      {
+        "threeTop": "415",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "100"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "15",
+        "twoBottom": "",
+        "price": "200"
+      }
+    ],
+    "date": "2026-05-31T20:42:34.717Z"
+  },
+  {
+    "result": "89898",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-1161",
+    "username": "aaa",
+    "total": 700,
+    "bets": [
+      {
+        "threeTop": "111",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "50"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "30",
+        "twoBottom": "",
+        "price": "200"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "23",
+        "twoBottom": "",
+        "price": "200"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "45",
+        "price": "250"
+      }
+    ],
+    "date": "2026-05-31T20:38:26.230Z"
+  },
+  {
+    "result": "12111",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-8363",
+    "username": "mmm",
+    "total": 110,
+    "bets": [
+      {
+        "threeTop": "111",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "10"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "12",
+        "twoBottom": "",
+        "price": "50"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "12",
+        "price": "50"
+      }
+    ],
+    "date": "2026-05-31T20:35:23.728Z"
+  },
+  {
+    "result": "85697",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-8363",
+    "username": "mmm",
+    "total": 120,
+    "bets": [
+      {
+        "threeTop": "123",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "20"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "23",
+        "twoBottom": "",
+        "price": "100"
+      }
+    ],
+    "date": "2026-05-31T20:18:38.028Z"
+  },
+  {
+    "result": "89632",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-8363",
+    "username": "mmm",
+    "total": 210,
+    "bets": [
+      {
+        "threeTop": "741",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "10"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "41",
+        "twoBottom": "",
+        "price": "100"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "14",
+        "price": "100"
+      }
+    ],
+    "date": "2026-05-31T20:15:37.792Z"
+  },
+  {
+    "result": "11159",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-2261",
+    "username": "asd",
+    "total": 560,
+    "bets": [
+      {
+        "threeTop": "159",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "10"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "59",
+        "twoBottom": "",
+        "price": "50"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "59",
+        "price": "500"
+      }
+    ],
+    "date": "2026-05-31T19:25:46.150Z"
+  },
+  {
+    "result": "10753",
+    "closeDate": "6/1/2026",
+    "userId": "VIP-2261",
+    "username": "asd",
+    "total": 35,
+    "bets": [
+      {
+        "threeTop": "753",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "10"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "53",
+        "twoBottom": "",
+        "price": "10"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "53",
+        "price": "15"
+      }
+    ],
+    "date": "2026-05-31T19:17:53.429Z"
+  },
+  {
+    "result": "11077",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 250,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "77",
+        "twoBottom": "",
+        "price": "250"
+      }
+    ],
+    "date": "2026-05-30T10:53:33.076Z"
+  },
+  {
+    "result": "77523",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 150,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "23",
+        "twoBottom": "",
+        "price": "150"
+      }
+    ],
+    "date": "2026-05-30T10:52:30.376Z"
+  },
+  {
+    "result": "99922",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 50,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "22",
+        "price": "50"
+      }
+    ],
+    "date": "2026-05-30T10:50:19.891Z"
+  },
+  {
+    "result": "55123",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 10,
+    "bets": [
+      {
+        "threeTop": "123",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "10"
+      }
+    ],
+    "date": "2026-05-30T10:35:13.100Z"
+  },
+  {
+    "result": "27778",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 100,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "78",
+        "twoBottom": "",
+        "price": "100"
+      }
+    ],
+    "date": "2026-05-30T10:33:15.335Z"
+  },
+  {
+    "result": "71055",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 120,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "55",
+        "twoBottom": "",
+        "price": "120"
+      }
+    ],
+    "date": "2026-05-30T09:53:24.353Z"
+  },
+  {
+    "result": "99912",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 350,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "12",
+        "twoBottom": "",
+        "price": "350"
+      }
+    ],
+    "date": "2026-05-30T09:52:05.540Z"
+  },
+  {
+    "result": "99912",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 150,
+    "bets": [
+      {
+        "threeTop": "401",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "150"
+      }
+    ],
+    "date": "2026-05-30T09:45:35.550Z"
+  },
+  {
+    "result": "99912",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 530,
+    "bets": [
+      {
+        "threeTop": "770",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "530"
+      }
+    ],
+    "date": "2026-05-30T09:20:41.234Z"
+  },
+  {
+    "result": "99912",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 200,
+    "bets": [
+      {
+        "threeTop": "457",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "200"
+      }
+    ],
+    "date": "2026-05-29T11:56:28.249Z"
+  },
+  {
+    "result": "99912",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 600,
+    "bets": [
+      {
+        "threeTop": "123",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "500"
+      },
+      {
+        "threeTop": "789",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "100"
+      }
+    ],
+    "date": "2026-05-29T11:22:52.668Z"
+  },
+  {
+    "result": "99912",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 770,
+    "bets": [
+      {
+        "threeTop": "147",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "85"
+      },
+      {
+        "threeTop": "147",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "150"
+      },
+      {
+        "threeTop": "145",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "50"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "47",
+        "price": "150"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "45",
+        "twoBottom": "",
+        "price": "235"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "10",
+        "price": "100"
+      }
+    ],
+    "date": "2026-05-29T11:18:57.114Z"
+  },
+  {
+    "result": "99912",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-3310",
+    "username": "qaz",
+    "total": 200,
+    "bets": [
+      {
+        "threeTop": "",
+        "twoTop": "70",
+        "twoBottom": "",
+        "price": "50"
+      },
+      {
+        "threeTop": "",
+        "twoTop": "",
+        "twoBottom": "70",
+        "price": "150"
+      }
+    ],
+    "date": "2026-05-29T10:38:23.796Z"
+  },
+  {
+    "result": "99912",
+    "closeDate": "5/30/2026",
+    "userId": "VIP-2261",
+    "username": "asd",
+    "total": 175,
+    "bets": [
+      {
+        "threeTop": "789",
+        "twoTop": "",
+        "twoBottom": "",
+        "price": "175"
+      }
+    ],
+    "date": "2026-05-29T10:26:43.181Z"
+  }
+]

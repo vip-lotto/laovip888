@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1780160188517,
+    "username": "max01",
+    "type": "withdraw",
+    "amount": 100,
+    "status": "rejected",
+    "date": "5/31/2026, 12:56:28 AM"
+  },
+  {
+    "id": 1780160156880,
+    "username": "max01",
+    "type": "withdraw",
+    "amount": 20,
+    "status": "approved",
+    "date": "5/31/2026, 12:55:56 AM"
+  },
+  {
+    "id": 1780159249402,
+    "username": "max01",
+    "type": "withdraw",
+    "amount": 120,
+    "status": "pending",
+    "date": "5/31/2026, 12:40:49 AM"
+  },
+  {
+    "id": 1780157838181,
+    "username": "max01",
+    "type": "withdraw",
+    "amount": 350,
+    "status": "pending",
+    "date": "5/31/2026, 12:17:18 AM"
+  },
+  {
+    "id": 1780156888095,
+    "username": "max01",
+    "type": "withdraw",
+    "amount": 50,
+    "status": "pending",
+    "date": "5/31/2026, 12:01:28 AM"
+  },
+  {
+    "id": 1780156760548,
+    "username": "max01",
+    "type": "withdraw",
+    "amount": 150,
+    "status": "pending",
+    "date": "5/30/2026, 11:59:20 PM"
+  }
+]
