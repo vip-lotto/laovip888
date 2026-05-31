@@ -23,7 +23,7 @@ const [showClosePopup,setShowClosePopup] = useState(false)
 
 useEffect(()=>{
 
-  fetch("http://localhost:3001/settings")
+  fetch("https://laovip888.onrender.com/settings")
     .then(res=>res.json())
     .then(data=>setSettings(data))
 
@@ -151,7 +151,7 @@ const addBet = () => {
 
  // เช็กเวลาปิดรับแทง
 const settingRes = await fetch(
-  "http://localhost:3001/settings"
+  "https://laovip888.onrender.com/settings"
 )
 
 const settings = await settingRes.json()
@@ -184,7 +184,7 @@ if (user.balance < total) {
 // ตัดเงิน
 const res = await fetch(
 
-  "http://localhost:3001/deduct-balance",
+  "https://laovip888.onrender.com/deduct-balance",
 
   {
 
@@ -231,7 +231,7 @@ localStorage.setItem(
 )
 await fetch(
 
-  "http://localhost:3001/save-bet",
+  "https://laovip888.onrender.com/save-bet",
 
   {
 

@@ -8,15 +8,15 @@ function Dashboard({ setPage }){
 
   useEffect(()=>{
 
-    fetch("http://localhost:3001/users")
+    fetch("https://laovip888.onrender.com/users")
       .then(res=>res.json())
       .then(data=>setUsers(data))
 
-    fetch("http://localhost:3001/daily-report")
+    fetch("https://laovip888.onrender.com/daily-report")
       .then(res=>res.json())
       .then(data=>setReports(data))
 
-    fetch("http://localhost:3001/winners-history")
+    fetch("https://laovip888.onrender.com/winners-history")
       .then(res=>res.json())
       .then(data=>setWinners(data))
 

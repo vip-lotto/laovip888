@@ -14,7 +14,7 @@ function Finance() {
   const loadHistory = async() => {
 
     const res = await fetch(
-      "http://localhost:3001/finance-history"
+      "https://laovip888.onrender.com/finance-history"
     )
 
     const data = await res.json()
@@ -34,7 +34,7 @@ function Finance() {
     <div style={{
       background:"#000",
       minHeight:"100vh",
-      
+
       color:"white",
       padding:"20px"
     }}>

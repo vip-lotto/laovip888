@@ -7,7 +7,7 @@ function Withdraw() {
   const loadWithdraws = async() => {
 
     const res = await fetch(
-      "http://localhost:3001/withdraws"
+      "https://laovip888.onrender.com/withdraws"
     )
 
     const data = await res.json()
@@ -91,7 +91,7 @@ function Withdraw() {
                 onClick={async()=>{
 
                   await fetch(
-                    "http://localhost:3001/approve-withdraw",
+                    "https://laovip888.onrender.com/approve-withdraw",
                     {
                       method:"POST",
                       headers:{
@@ -124,7 +124,7 @@ function Withdraw() {
                 onClick={async()=>{
 
                   await fetch(
-                    "http://localhost:3001/reject-withdraw",
+                    "https://laovip888.onrender.com/reject-withdraw",
                     {
                       method:"POST",
                       headers:{

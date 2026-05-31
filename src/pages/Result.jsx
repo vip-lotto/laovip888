@@ -9,7 +9,7 @@ const [results,setResults] = useState([])
 
   useEffect(()=>{
 
-  fetch("http://localhost:3001/result")
+  fetch("https://laovip888.onrender.com/result")
     .then(res=>res.json())
     .then(data=>{
 

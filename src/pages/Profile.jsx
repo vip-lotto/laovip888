@@ -78,7 +78,7 @@ function Profile() {
       if(!currentUser) return
 
       const res = await fetch(
-        "http://localhost:3001/users"
+        "https://laovip888.onrender.com/users"
       )
 
       const users = await res.json()
@@ -326,7 +326,7 @@ function Profile() {
 
                 // UPDATE
                 await fetch(
-                  "http://localhost:3001/change-password",
+                  "https://laovip888.onrender.com/change-password",
                 {
                     method:"POST",
                     headers:{
@@ -503,7 +503,7 @@ function Profile() {
               onClick={async() => {
 
                 await fetch(
-                  "http://localhost:3001/save-bank",
+                  "https://laovip888.onrender.com/save-bank",
                 {
                     method:"POST",
                     headers:{

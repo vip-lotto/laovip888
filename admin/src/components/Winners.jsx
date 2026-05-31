@@ -6,7 +6,7 @@ function Winners(){
 
   useEffect(()=>{
 
-    fetch("http://localhost:3001/winners-history")
+    fetch("https://laovip888.onrender.com/winners-history")
       .then(res=>res.json())
       .then(data=>{
 

@@ -315,7 +315,7 @@ function Lottery(){
 
   await fetch(
 
-    "http://localhost:3001/save-result",
+    "https://laovip888.onrender.com/save-result",
 
     {
 
@@ -402,7 +402,7 @@ function Lottery(){
   const loadBets = async () => {
 
     const res = await fetch(
-      "http://localhost:3001/bets"
+      "https://laovip888.onrender.com/bets"
     )
 
     const data = await res.json()
@@ -621,7 +621,7 @@ function History(){
 
   useEffect(()=>{
 
-    fetch("http://localhost:3001/daily-report")
+    fetch("https://laovip888.onrender.com/daily-report")
       .then(res=>res.json())
       .then(data=>{
 
@@ -705,7 +705,7 @@ function Rates(){
   useEffect(()=>{
 
     fetch(
-      "http://localhost:3001/rates"
+      "https://laovip888.onrender.com/rates"
     )
     .then(res=>res.json())
     .then(data=>{
@@ -722,7 +722,7 @@ function Rates(){
 
     await fetch(
 
-      "http://localhost:3001/save-rates",
+      "https://laovip888.onrender.com/save-rates",
 
       {
 
@@ -820,7 +820,7 @@ function Settings(){
   useEffect(()=>{
 
     fetch(
-      "http://localhost:3001/settings"
+      "https://laovip888.onrender.com/settings"
     )
     .then(res=>res.json())
     .then(data=>{
@@ -836,7 +836,7 @@ function Settings(){
 
     await fetch(
 
-      "http://localhost:3001/save-settings",
+      "https://laovip888.onrender.com/save-settings",
 
       {
 

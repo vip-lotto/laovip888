@@ -15,7 +15,7 @@ function Winners(){
     localStorage.getItem("user")
   )
 
-  fetch("http://localhost:3001/bets")
+  fetch("https://laovip888.onrender.com/bets")
   .then(res=>res.json())
   .then(history=>{
 
@@ -26,7 +26,7 @@ function Winners(){
     const betStatus = myBets.length > 0
 
     fetch(
-      "http://localhost:3001/winners-history"
+      "https://laovip888.onrender.com/winners-history"
     )
     .then(res=>res.json())
     .then(data=>{
@@ -49,7 +49,7 @@ else if(betStatus){
 }
 else{
 
-  fetch("http://localhost:3001/history")
+  fetch("https://laovip888.onrender.com/history")
   .then(res=>res.json())
   .then(history=>{
 

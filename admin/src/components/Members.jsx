@@ -9,7 +9,7 @@ function Members({ setPage }) {
 
   const loadUsers = ()=>{
 
-    fetch("http://localhost:3001/users")
+    fetch("https://laovip888.onrender.com/users")
       .then(res=>res.json())
       .then(data=>setUsers(data))
 
@@ -26,7 +26,7 @@ function Members({ setPage }) {
     if(!selectedUser) return
 
     await fetch(
-      "http://localhost:3001/add-balance",
+      "https://laovip888.onrender.com/add-balance",
       {
         method:"POST",
         headers:{
@@ -53,7 +53,7 @@ function Members({ setPage }) {
     if(!selectedUser) return
 
     await fetch(
-      "http://localhost:3001/deduct-balance",
+      "https://laovip888.onrender.com/deduct-balance",
       {
         method:"POST",
         headers:{
@@ -86,7 +86,7 @@ function Members({ setPage }) {
     if(!ok) return
 
     await fetch(
-      "http://localhost:3001/delete-user",
+      "https://laovip888.onrender.com/delete-user",
       {
         method:"POST",
         headers:{

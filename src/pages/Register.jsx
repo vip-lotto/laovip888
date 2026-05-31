@@ -76,7 +76,7 @@ const [popupText,setPopupText] =
       // SEND TO BACKEND
       const res = await fetch(
 
-        "http://localhost:3001/register",
+        "https://laovip888.onrender.com/register",
 
         {
 

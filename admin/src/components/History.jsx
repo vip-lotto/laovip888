@@ -6,7 +6,7 @@ function History() {
 
   useEffect(()=>{
 
-    fetch("http://localhost:3001/daily-report")
+    fetch("https://laovip888.onrender.com/daily-report")
       .then(res=>res.json())
       .then(data=>{
 
