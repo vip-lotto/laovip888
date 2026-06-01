@@ -46,7 +46,7 @@ function Live() {
         <iframe
           width="100%"
           height="650"
-          src="https://laostars.com/"
+          src="https://laovip-result.onrender.com/"
           title="live"
           frameBorder="0"
           allowFullScreen
